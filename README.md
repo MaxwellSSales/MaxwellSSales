@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Estou em processo de transição de carreira para Programador Jr. buscando a primeira vaga na área.<br>Experiência at´o momento em:<br>- Python<br>- JavaScript<br>- HTML<br>- CSS<br>Cursando a Faculdade: Impacta (1º Semestre)<br>Diariamente estudo essas linguagens buscando aprimoramento</p>
+<p align="left">Estou em processo de transição de carreira para Programador Jr. buscando a primeira vaga na área.<br>Experiência até o momento em:<br>- Python<br>- JavaScript<br>- HTML<br>- CSS<br>Cursando a Faculdade: Impacta (1º Semestre)<br>Diariamente estudo essas linguagens buscando aprimoramento</p>
 
 ###
 
@@ -33,7 +33,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/MaxwellSSales/MaxwellSSales/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/MaxwellSSales/MaxwellSSales/output/snake.svg" alt="Snake animation"/>
 
 ###
 
