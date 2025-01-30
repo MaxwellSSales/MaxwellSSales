@@ -1,4 +1,4 @@
-<img src="https://github.com/MaxwellSSales/MaxwellSSales/blob/main/pexels-markusspiske-1089438.jpg" alt="SENAI Roberto Simonsen" width="800" height="300">
+<img src="https://github.com/MaxwellSSales/MaxwellSSales/blob/main/pexels-markusspiske-1089438.jpg" alt="SENAI Roberto Simonsen" width="900" height="300">
 
 <h1 align="left">About  me</h1>
 
