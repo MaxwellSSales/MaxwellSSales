@@ -1,4 +1,4 @@
-<img scr="https://github.com/MaxwellSSales/MaxwellSSales/blob/main/pexels-markusspiske-1089438.jpg" weight="200" height="600">
+<img scr="https://github.com/MaxwellSSales/MaxwellSSales/blob/main/pexels-markusspiske-1089438.jpg">
 
 <h1 align="left">About  me</h1>
 
